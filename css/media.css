@@ -1,0 +1,230 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* header start  */
+    .logo{
+        width: 160px;
+    }
+    .menu ul li a{
+        padding: 0 10px 5px !important;
+    }
+    /* banner started  */
+    h1 {
+        margin: 10px 0;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .b_frame img {
+        margin-bottom: 20px;
+        padding: 0 10px;
+    }
+    .b_frame{
+        padding: 0 0 40px;
+    }
+    .custom_btn{
+        margin-top: 15px;
+    }
+    /* hero area  */
+    .content {
+        padding: 30px 0;
+    }
+    /* course area  */
+    .o_course h2 {
+        font-size: 24px !important;
+        padding:20px 15px 25px !important;
+    }
+    .course img{
+        width: 224px;
+    }
+    .course h2 {
+        margin: 0;
+        padding: 5px;
+        font-size: 20px;
+    }
+    .course h6{
+        margin: 0;
+        padding: 10px;
+        font-size: 18px !important;
+    }
+    .course ul li {
+        font-size: 14px;
+    }
+    /* testimonial area started  */
+    .testimonial{
+        padding: 10px 0 !important;
+    }
+    .testimonial h2{
+        margin: 0;
+        padding: 20px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .testimonial2 img{
+        margin-left: 25%;
+        width: 40%;
+    }
+    p{
+      padding: 12px;
+    }
+    /* footer started  */
+    .footer{
+        padding: 30px;
+     }
+     .brand{
+        font-size: 12px !important;
+     }
+
+}
+/* small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* header start  */
+    .logo{
+        width: 160px;
+    }
+    .menu ul li a{
+        padding: 0 10px 5px !important;
+    }
+    /* banner started  */
+    h1 {
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .b_frame img {
+        margin-bottom: 30px;
+        padding: 0 40px;
+    }
+    .b_frame{
+        padding: 0 0 40px;
+    }
+    .custom_btn{
+        margin-top: 15px;
+    }
+    /* hero area  */
+    .content {
+        padding: 30px 0;
+    }
+    .o_course h2 {
+        font-size: 24px !important;
+        padding: 15px !important;
+    }
+    .course{
+        padding: 60px;
+    }
+    .course h2 {
+        padding: 5px;
+        font-size: 20px;
+    }
+    .course img{
+        width: 224px;
+    }
+    .course h2 {
+        margin: 0;
+        padding: 5px;
+        font-size: 20px;
+    }
+    .course h6{
+        margin: 0;
+        padding: 10px;
+        font-size: 18px !important;
+    }
+    /* testimonial area started  */
+    .testimonial{
+        padding: 10px 0 !important;
+    }
+    .testimonial h2{
+        margin: 0;
+        padding: 20px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .testimonial2 img{
+        margin-left: 25%;
+        width: 40%;
+    }
+    p{
+      padding: 12px;
+    }
+    .brand{
+        font-size: 12px !important;
+     }
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* header started  */
+    .menu ul li a{
+        padding: 0 15px 10px !important;
+    }
+    /* banner started  */
+    h1{ 
+        font-size: 35px;
+        line-height: 40px;
+    }
+    p{
+        line-height: 24px;
+      }
+    .b_frame img {
+        margin-bottom: 30px;
+        padding: 0 60px;
+    }
+    .b_frame{
+        padding: 0 0 60px;
+    }
+    /* hero area  */
+    .content {
+        padding: 40px 0;
+    }
+    /* course area  */
+    .o_course h2 {
+        font-size: 35px !important;
+        padding: 30px !important;
+    }
+    .course h2 {
+        padding: 10px;
+        font-size: 35px;
+    }
+    .course img{
+        width: 224px;
+    }
+    .course h2 {
+        margin: 0;
+        padding: 5px;
+        font-size: 20px;
+    }
+    .course h6{
+        margin: 0;
+        padding: 10px;
+        font-size: 18px !important;
+    }
+    /* testimonial area started  */
+    .testimonial{
+        padding: 30px 0 !important;
+    }
+    .testimonial h2{
+        margin: 0;
+        padding: 20px;
+        font-size: 30px !important;
+    }
+    .testimonial2 img{
+        margin-left: 40%;
+        width: 70%;
+    }
+    
+    
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .
+
+}
+/* Extra extra large devices ( extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+   
+
+ } 
